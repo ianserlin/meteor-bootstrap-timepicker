@@ -1,3 +1,7 @@
+##Forked for Bootstrap 3.x support
+
+Originally from [BenjaminRH's repo](https://github.com/BenjaminRH/meteor-bootstrap-timepicker)
+
 ##Bootstrap Timepicker - Meteor Smart Package
 
 [Bootstrap Timepicker](http://jdewit.github.com/bootstrap-timepicker/) packaged for Meteor.
