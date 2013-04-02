@@ -1,6 +1,6 @@
 {
 	"name": "bootstrap-3-timepicker",
-	"description": "Bootstrap Timepicker packaged for Meteor.",
+	"description": "Bootstrap 3 Timepicker packaged for Meteor.",
 	"homepage": "http://github.com/ianserlin/meteor-bootstrap-timepicker",
 	"author": ["Benjamin Harris  (http://benjaminrharris.com)", "Ian Serlin (http://ianserlin.com)"],
 	"version": "0.1.0",
