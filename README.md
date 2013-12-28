@@ -9,4 +9,4 @@ Originally from [BenjaminRH's repo](https://github.com/BenjaminRH/meteor-bootstr
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt add bootstrap-timepicker`
+2. `mrt add bootstrap-3-timepicker`
