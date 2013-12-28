@@ -3,7 +3,7 @@
 	"description": "Bootstrap 3 Timepicker packaged for Meteor.",
 	"homepage": "http://github.com/ianserlin/meteor-bootstrap-timepicker",
 	"author": "Ian Serlin (http://ianserlin.com)",
-	"version": "0.2.3",
+	"version": "0.2.4",
 	"git": "https://github.com/ianserlin/meteor-bootstrap-timepicker.git",
 	"packages": {}
 }
