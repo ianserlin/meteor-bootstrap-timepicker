@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-3-timepicker": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "bootstrap-3-timepicker": {
+        "path": "."
+      }
+    }
+  }
+}
